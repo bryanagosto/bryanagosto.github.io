@@ -1,7 +1,7 @@
 
     $('.swing')
     
-    .data('textToggle', 'HTML5, CSS3, Phyton, PHP, JavaScript, VBA, SQL, XML, JSON')
+    .data('textToggle', 'PHP, Python, JavaScript, VBA, SQL, XML, JSON, HTML5, CSS3')
     .hover(function (o) {
         
         var that = $(this);
@@ -18,7 +18,7 @@
     });
     $('.swingtwo')
     
-    .data('textToggle', 'Responsible, Bilingual(Spanish), Resourceful, Open-minded, Independent, Analytical, Flexible, Punctual, Honest, Cooperative') 
+    .data('textToggle', 'Analytical, Responsible, Resourceful, Open-minded, Independent, Flexible, Punctual, Honest, Cooperative') 
     .hover(function (o) {
         
         var that = $(this);
@@ -35,7 +35,7 @@
     });
     $('.swingthree')
     
-    .data('textToggle', 'Wordpress, Bootstrap, Drupal, Shopify, SEO, Marketing, Linux, Windows, Military Experience, Wireshark, Android, Apache, MySQL, jQuery, React, Visual Studio')
+    .data('textToggle', 'MySQL, jQuery, Tableau, Wordpress, Linux, Windows, Military Experience, Android, MS Suite, Apache, Visual Studio')
     .hover(function (o) {
         
         var that = $(this);
